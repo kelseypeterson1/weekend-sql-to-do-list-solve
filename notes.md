@@ -3,6 +3,7 @@ _To-do_
 ## Setup tasks
 [] npm init
 [] File structure
+[] Setup npm start script
 [] Front end files linked up (HTML/CSS/JQ)
     [] Basic HTML setup
 [] Express server setup

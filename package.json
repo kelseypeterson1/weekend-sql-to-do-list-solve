@@ -1,0 +1,25 @@
+{
+  "name": "weekend-sql-to-do-list-solve",
+  "version": "1.0.0",
+  "description": "[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelseypeterson1/weekend-sql-to-do-list-solve.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelseypeterson1/weekend-sql-to-do-list-solve/issues"
+  },
+  "homepage": "https://github.com/kelseypeterson1/weekend-sql-to-do-list-solve#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "pg": "^8.7.3"
+  }
+}
